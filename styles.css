@@ -1,0 +1,157 @@
+*{
+    text-decoration: none;
+    padding: 0px;
+    box-sizing: border-box;
+    list-style-type: none;
+}
+body{
+    font-family: monstrrate;
+    background-color: rgb(217, 236, 236);
+    margin: 0;
+    padding: 0;
+
+}
+.header{
+    width: 100%;
+    height: 80px;
+    background: #094603;
+}
+.logo{
+    color: rgb(209, 209, 231);
+    font-size: 35px;
+    line-height: 80px;
+    padding: 0 100px;
+    font-weight: bold;
+    
+}
+.ul{
+    float: right;
+    margin-right: 20px;
+}
+li{
+    display: inline-block;
+    line-height: 80px;
+    margin: 0 5px;
+    
+}
+a{
+color: white;
+text-transform: uppercase;
+border-radius: 3px;
+padding: 7px 13px;
+border: 1px solid white;
+
+}
+a:hover{
+    color: black;
+    background-color: blueviolet;
+}
+
+.top-container{
+    
+    margin-left: 50px;
+    display: inline-block;
+    width: 100%;
+    
+    
+
+}
+img{
+    
+    float: right;
+    margin-right: 300px;
+    margin-bottom: 50px;
+  
+
+}
+.box{
+    width: 300px;
+    height: 30px;
+    margin-top: 70px;
+    
+}
+.get{
+    width: 150px;
+    height: 30px;
+    background-color: blueviolet;
+    color: blanchedalmond;
+}
+.mid-container{
+    
+    display: inline-block;
+    width: 100%;
+    margin: 100px 0 0 50px;
+
+}
+.things{
+ border: none;
+ font-size: 25px;
+ margin-top: 500px;
+ color: #008000;
+}
+.photo{
+    width: 15%;
+    float: left;
+}
+.stay{
+    margin: 50px 0;
+}
+.bottom-container{
+    
+    
+    width: 100%;
+    height: 300px;
+    display: inline-block;
+    background-color: gray;
+    color: aliceblue;
+
+}
+.email{
+    float: right;
+    margin-right: 500px;
+    
+    
+    
+}
+.uname{
+    width: 300px;
+    height: 30px;
+    margin-bottom: 20px;
+
+}
+.butt{
+    color: blanchedalmond;
+    background-color: blue;
+    width: 150px;
+    margin-top: 20px;
+    height: 30px;
+    box-sizing: 2px;
+    
+
+}
+.a{
+    margin-left: 50px;
+}
+.footer{
+    display: inline-block;
+    background-color: #2F4F4F;
+    width: 100%;
+    height: 100%;
+    
+    
+    margin-bottom: 0;
+    color: white;
+    
+
+}
+.table{
+    width: 60%;
+    height: 150px;
+    margin-left: 50px;
+}
+.zola{
+    font-size: 35px;
+    color: rgba(242, 247, 242, 0.979);
+    font-weight: bold;
+}
+
